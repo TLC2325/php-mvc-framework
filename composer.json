@@ -1,0 +1,11 @@
+{
+    "name": "thuy.lychambers/php-mvc-framework",
+    "description": "Learning about php-mvc",
+    "authors": [
+        {
+            "name": "Thuy Ly-Chambers",
+            "email": "thuylchambers@gmail.com"
+        }
+    ],
+    "require": {}
+}
